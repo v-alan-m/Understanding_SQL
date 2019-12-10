@@ -6,4 +6,4 @@
 04 - Real world SQL application  
 05 - How to use JOINS in SQL  
 06 - Extract timestamps, math functions, operators and strings, subquery, self-join
-07 - Real-world SQL scenarios
+07 - Real-world SQL scenarios  
