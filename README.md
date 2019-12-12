@@ -7,3 +7,4 @@
 05 - How to use JOINS in SQL  
 06 - Extract timestamps, math functions, operators and strings, subquery, self-join
 07 - Real-world SQL scenarios  
+08 - How to create databases and tables using SQL  
