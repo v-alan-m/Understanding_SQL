@@ -11,5 +11,6 @@
 09 - How to create PostgreSQL views, for viewing data from multiple tables  
 10 - Using PostgreSQL with python:  
 &emsp; - Installing psycopg2 will allow python to interact with PostgreSQL databases  
-&emsp; - To install this library run the following command if on Windows, ensure pip is installed then run within CMD: __pip install psycopg2__    
+&emsp; - To install this library run the following command if on Windows, ensure pip is installed then run within CMD:  
+__pip install psycopg2__    
 &emsp; - Futher instructions can be found here: http://initd.org/psycopg/docs/install.html#use-a-python-package-manager  
