@@ -12,5 +12,5 @@
 10 - Using PostgreSQL with python:  
 &emsp; - Installing psycopg2 will allow python to interact with PostgreSQL databases  
 &emsp; - To install this library run the following command if on Windows, ensure pip is installed then run within CMD:  
-&emsp; &nbsp; __pip install psycopg2__    
+&emsp; &ensp; __pip install psycopg2__    
 &emsp; - Futher instructions can be found here: http://initd.org/psycopg/docs/install.html#use-a-python-package-manager  
