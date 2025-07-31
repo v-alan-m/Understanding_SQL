@@ -12,13 +12,13 @@ Understand how SQL is commonly used in real-world PostgreSQL setups.
 ### 🧠 02 - Core SQL Statements  
 Master the fundamental statements needed to utilize SQL effectively.
 
-### 📊 03 - `GROUP BY` & `HAVING` Clauses  
+### 📊 03 - GROUP BY & HAVING Clauses  
 Use aggregation techniques in real-world scenarios with `GROUP BY` and `HAVING`.
 
 ### 🌍 04 - Real-World SQL Applications  
 Practice SQL queries that mirror actual industry problems.
 
-### 🔗 05 - SQL `JOINS`  
+### 🔗 05 - SQL JOINS  
 Learn how to combine data across multiple tables using `INNER`, `LEFT`, `RIGHT`, and `FULL` joins.
 
 ### 🧮 06 - Timestamps, Math, Strings, and Subqueries  
@@ -39,7 +39,7 @@ Build views to simplify access to complex multi-table data.
 
 Integrate PostgreSQL with Python for dynamic database interaction.
 
-### 📦 Installing `psycopg2`  
+### 📦 Installing psycopg2  
 `psycopg2` allows Python to communicate with PostgreSQL databases.
 
 #### 🔧 Installation on Windows:
