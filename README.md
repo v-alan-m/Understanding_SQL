@@ -1,16 +1,49 @@
-# sql_exercises
+# 🐘 SQL Exercises — PostgreSQL & Python Integration
 
-01 - Typical SQL in PostGresSQL applications  
-02 - The fundamental statements used to utlise SQL  
-03 - GROUP BY and HAVING clauses within a real world context  
-04 - Real world SQL application  
-05 - How to use JOINS in SQL  
-06 - Extract timestamps, math functions, operators and strings, subquery, self-join  
-07 - Real-world SQL scenarios  
-08 - How to create databases and tables using SQL  
-09 - How to create PostgreSQL views, for viewing data from multiple tables  
-10 - Using PostgreSQL with python:  
-&emsp; - Installing psycopg2 will allow python to interact with PostgreSQL databases  
-&emsp; - To install this library run the following command if on Windows, ensure pip is installed then run within CMD:  
-&emsp; &ensp; __pip install psycopg2__    
-&emsp; - Futher instructions can be found here: http://initd.org/psycopg/docs/install.html#use-a-python-package-manager  
+Welcome to the **SQL Exercises** repository! This series walks you through essential and advanced SQL concepts with PostgreSQL, culminating in Python integration. Whether you're a beginner or polishing your skills, this structured path will guide you through real-world SQL applications.
+
+---
+
+## 📚 Modules Overview
+
+### ✅ 01 - Typical SQL in PostgreSQL Applications  
+Understand how SQL is commonly used in real-world PostgreSQL setups.
+
+### 🧠 02 - Core SQL Statements  
+Master the fundamental statements needed to utilize SQL effectively.
+
+### 📊 03 - `GROUP BY` & `HAVING` Clauses  
+Use aggregation techniques in real-world scenarios with `GROUP BY` and `HAVING`.
+
+### 🌍 04 - Real-World SQL Applications  
+Practice SQL queries that mirror actual industry problems.
+
+### 🔗 05 - SQL `JOINS`  
+Learn how to combine data across multiple tables using `INNER`, `LEFT`, `RIGHT`, and `FULL` joins.
+
+### 🧮 06 - Timestamps, Math, Strings, and Subqueries  
+Extract and manipulate timestamps, apply math functions, use string operators, perform subqueries, and self-joins.
+
+### 🧪 07 - Real-World SQL Scenarios  
+Tackle challenges based on complex, real-world business logic.
+
+### 🏗️ 08 - Creating Databases & Tables  
+Use `CREATE DATABASE` and `CREATE TABLE` to design relational structures.
+
+### 👁️‍🗨️ 09 - PostgreSQL Views  
+Build views to simplify access to complex multi-table data.
+
+---
+
+## 🐍 10 - PostgreSQL + Python Integration  
+
+Integrate PostgreSQL with Python for dynamic database interaction.
+
+### 📦 Installing `psycopg2`  
+`psycopg2` allows Python to communicate with PostgreSQL databases.
+
+#### 🔧 Installation on Windows:
+Ensure `pip` is installed, then run:
+
+```bash
+pip install psycopg2
